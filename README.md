@@ -2,6 +2,11 @@
 
 A portable, battery-friendly weather station built with **ESP32** and **DHT22**, running as a **Wi-Fi Access Point** with a modern web interface. No internet required — connect directly to the ESP32 AP and view live data.
 
+# Screenshot
+<img width="399" height="1280" alt="image" src="https://github.com/user-attachments/assets/6945a09b-65ab-4932-bfd9-03563db4032b" />
+<img width="1920" height="1103" alt="screencapture-192-168-4-1-2025-08-20-18_57_45" src="https://github.com/user-attachments/assets/ef0c8cf6-1aca-4d10-b021-fcec1e7b7d07" />
+
+
 ---
 
 ## ✨ Features
